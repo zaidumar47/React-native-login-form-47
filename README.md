@@ -9,3 +9,5 @@ Go into the project directory and run
 after installing dependancies, run 
 
     react-native run-android
+
+    Author - Zaid
