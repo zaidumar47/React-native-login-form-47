@@ -10,4 +10,4 @@ after installing dependancies, run
 
     react-native run-android
 
-    Author - Zaid
+    
